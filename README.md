@@ -1,8 +1,9 @@
 **Retail Customer Behavior Analysis**
 
 **Project Overview**
-This project focuses on analyzing customer shopping behavior to identify key patterns in purchasing, customer segmentation, and product performance. The goal is to derive actionable insights that can help improve business decision-making, customer retention, and revenue growth.
-
+![Python](https://img.shields.io/badge/Python-Analysis-blue)
+![SQL](https://img.shields.io/badge/SQL-Data-green)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 **Business Problem** 
 Retail businesses often lack clear visibility into:
 Who their most valuable customers are
