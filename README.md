@@ -53,3 +53,7 @@ Target high-value customers with personalized offers
 Improve subscription conversion strategies
 Focus marketing efforts on high-performing categories
 Optimize inventory based on demand trends
+
+**DASHBOARD**
+<img width="1468" height="818" alt="image" src="https://github.com/user-attachments/assets/08d3982c-a6b2-4dfa-90fd-46c884df44ce" />
+
